@@ -1,3 +1,3 @@
-# mugmill
+# Mugmill
 
 Ham
