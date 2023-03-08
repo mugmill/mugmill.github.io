@@ -1,3 +1,3 @@
-# mugmill.github.io
+# mugmill
 
 Ham
