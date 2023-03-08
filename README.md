@@ -6,7 +6,3 @@
 # Type of stuff you will find:
 
 -Code
--Code
--Code
--Code
--Humans
